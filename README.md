@@ -7,4 +7,4 @@ The Pcb Desgin from the front:
 ![Screenshot of the Pcb Design Front](https://github.com/B16MaM4/USB-Hub/blob/main/brave_screenshot_pro.easyeda.com%20(1).png)
 
 A 3d render Of The Pcb Design: 
-![Screenshot of the PCB Design As a 3D render](https://github.com/B16MaM4/USB-Hub/blob/main/brave_screenshot_pro.easyeda.com%20(1).png)
+![Screenshot of the PCB Design As a 3D render](https://github.com/B16MaM4/USB-Hub/blob/main/brave_screenshot_pro.easyeda.com.png)
