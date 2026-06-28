@@ -8,3 +8,6 @@ Hi, this is a very simple reposertory for a USB-hub Projekt
 
 ### A 3d render Of The Pcb Design: 
 ![Screenshot of the PCB Design As a 3D render](https://github.com/B16MaM4/USB-Hub/blob/main/Screenshot_2.png)
+
+### PCB Scematic 
+![Scematic of the PCB Design](https://github.com/B16MaM4/USB-Hub/blob/main/SCH_Schematic1_2026-06-28.pdf)
